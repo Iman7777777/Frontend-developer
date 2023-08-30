@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Iman Nagati</h1>
+    <p>Email: iman.nagati@gmail.com | Phone: (0046) 731-911292</p>
+    
+    <div class="section">
+        <h2>Summary</h2>
+        <p>Enthusiastic web developer with a passion for creating modern, user-friendly websites. Proficient in HTML, CSS, and JavaScript.</p>
+    </div>
+    
+    <div class="section">
+        <h2>Education</h2>
+        <p><strong>Sundsgardens Folkhogskola</strong><br>
+        Frontend Developer<br>
+        Graduated: January 2024</p>
+    </div>
+    
+    <div class="section">
+        <h2>Experience</h2>
+        <p><strong>Web Developer Intern</strong><br>
+         SVEA EDUCATION, SUNDBYBERG, SWEDEN<br>
+        June 2010 - August 2020<br>
+        - Assisted in developing and maintaining company website<br>
+        - Collaborated with team to implement new features</p>
+    </div>
+    
+    <div class="section">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JavaScript</li>
+            <li>Responsive Design</li>
+        </ul>
+    </div>
+</body>
+</html>
